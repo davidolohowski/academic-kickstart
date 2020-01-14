@@ -29,10 +29,6 @@ I am also a die-hard Barcelona fan simply because of the GOAT --- Lionel Messi. 
 <span style="font_size:90%">Tom Decroos, Lotte Bransen, Jan Van Haaren, and Jesse Davis, (2019) <a href="https://arxiv.org/pdf/1802.07127.pdf" target="_blank">Actions Speak Louder than Goals:
 Valuing Player Actions in Soccer</a>, In *The 25th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’19)*.</span>
 
-<img src="me.jpg" alt="Me" style="padding: 15px;float:right;width:250px;height:250px;">
-
-I also started raving after coming to Canada --- something I would probaby never do if I stayed in China. As you can see from the right, it was quite fun. Some of my favorite DJs are DVLM, Rezz, and probably Hardwell. But I don't go as often as before since it has become more and more exhausting everytime I go.
-
 I also quite enjoy classical musics as well as movie scores when I need to focus and study. Debussy and Mozart are probably on the top of my list. Interstellar and Star Wars soundtracks are simply genius.
 
 I am also an avid fantasy/sci-fi fan. It might be cliche, but Star Wars, LOTR and Harry Potter can always make me go on and on.
