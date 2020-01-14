@@ -1,0 +1,17 @@
+---
+title: About my research
+summary: "research"
+date: "2020-01-05T00:00:00Z"
+
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
+
+---
+
+Astrostatistics is an emerging and fast-growing cross-disciplinary field. It is at the intersection of astrophysics and statistics; it encompasses the application of modern statistical methodologies to astrophysics research, as well as the development of *novel* statistical methodologies for astrophysics which can lead to application in other scientific disciplines. 
+
+I am a trained statistician, my research interests in statistics are mainly spatial statistics, Bayesian inference/computation, as well as Markov Chain Monte Carlo (MCMC) algorithms. In my Masters thesis, I worked on developing spatial point process models to investigate the spatial distribution of stellar objects (CO filament, giant molecular clouds, star clusters) in the M33 galaxy. This is a novel methodology in astronomy and it has led to potential new discoveries in the formation of young stellar clusters. I have also worked on facilitating Hamiltonian Monte Carlo (HMC) for a class of distribution called the doubly-intractable distribution where its likelihood contains an intractable normalizing constant. 
+
+My Ph.D. work will focus on developing novel methodology in spatial point processes to help astronomers better detect a class of galaxies called the ultra-diffuse galaxies. These galaxies are very hard to detect in that they have extremely low surface brightness (some only have 1% of the stars of the Milky Way Galaxy) but can be as much or more massive than the Milky Way (due to dark matter). Developing methods and models to understand the distribution of these galaxies can shed new light on our understanding of the Universe.
