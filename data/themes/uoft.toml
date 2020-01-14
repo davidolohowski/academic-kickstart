@@ -1,0 +1,18 @@
+# Theme metadata
+name = "uoft"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#007FA3"
+
+# Menu
+menu_primary = "#00204E" # 500
+menu_text = "#fff"
+menu_text_active = "#5DADE2" # A100
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(242, 244, 247)"
