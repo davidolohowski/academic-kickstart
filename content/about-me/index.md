@@ -10,15 +10,9 @@ comments: false  # Show comments?
 
 ---
 
-#### Where I am from
+#### My name
 
-I'm originally from <a href="https://en.wikipedia.org/wiki/Zhuzhou" target="_blank">Zhuzhou</a>, <a href="https://en.wikipedia.org/wiki/Hunan" target="_blank">Hunan</a>, China, a "small" town with just over 4 million population. I then moved to <a href="https://en.wikipedia.org/wiki/Changsha" target="_blank">Changsha</a> for my high school education at <a href="https://en.wikipedia.org/wiki/Yali_High_School" target="_blank">Yali High School</a>. After that, I came to Canada for my post-secondary education. 
-
-#### How to pronounce my name
-
-My Chinese name is 李大一， 李 (pinyin：Lǐ) is the family name; 大一 (pinyin: Dà Yī) is my first name and it is quite unique. According to the police record, there are only 3 people having the same name as me in my home province Hunan, which has a population of 67 million. So finding me wouldn't be that difficult.
-
-If you find it difficult to pronounce my Chinese name, just stick with my English name David and I actually prefer it nowadays since people hardly get my Chinese name right. Although yelling David in a crowd will probably lead to many head-turnings and confusions.
+My Chinese name is 李大一， 李 (Li, don't think there's any issue with how to pronounce it) is the family name; 大一 (Dah Yee) is my first name. Quite ironically, the literal translation of my first name is "Big One" while I am no where near anything big (although my head may have an above average size). Certainly, it doesn't carry the meaning of its literal translation, but I don't know what it really means since my dad is still not willing to tell me.
 
 #### Hobbies
 
