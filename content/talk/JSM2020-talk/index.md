@@ -1,5 +1,5 @@
 ---
-title: "Going Probablistic: Probing the Distributional Properties of Stellar Objects in M33 with Gibbs Point Process Model"
+title: "Gibbs Point Process Model for Objects in the Star Formation Complexes of M33"
 event: JSM 2020
 event_url: https://ww2.amstat.org/meetings/jsm/2020/
 
