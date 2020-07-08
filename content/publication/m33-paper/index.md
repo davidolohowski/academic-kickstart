@@ -1,10 +1,10 @@
 ---
 title: "Gibbs Point Process Model for Young Star Clusters in M33"
-authors: 
+authors:
 - Dayi Li
 - Pauline Barmby
 - Ian McLeod
-date: "2020-01-01T00:00:00Z"
+date: "2020-07-08T00:00:00Z"
 doi: ""
 
 reading_time: false  # Show estimated reading time?
