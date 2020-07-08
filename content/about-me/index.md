@@ -22,7 +22,7 @@ If you find it difficult to pronounce my Chinese name, just stick with my Englis
 
 #### Hobbies
 
-I draw and doodle in my spare time. In fact, I was aiming for a career as an artist all the way till high school. But I dropped it as a career path due to multiple reasons and it ended up as a hobby after high school. It still provides me with a lot of calm and comfort, however, and I enjoy the absolute freedom when I let my imagination loose. Here are some of the works I did over the years. 
+I draw and doodle in my spare time. In fact, I was aiming for a career as an artist all the way till high school. But I dropped it as a career path due to multiple reasons and it ended up as a hobby after high school. It still provides me with a lot of calm and comfort, however, and I enjoy the absolute freedom when I let my imagination loose. 
 
 I am also a die-hard Barcelona fan simply because of the GOAT --- Lionel Messi. I don't think there should be any debate on whether Messi or Ronaldo is the best player of the world because Ronaldo is simply not on the same level as Messi, as supported by the analysis and results found in the following paper:
 
