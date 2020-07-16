@@ -81,7 +81,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "dli346@uwo.ca"
+email = "dayi.li@mail.utoronto.ca"
 phone = "+1 226 688 8631"
 
 # Address
