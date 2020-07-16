@@ -23,8 +23,8 @@ bio: My research interests include astrostatisics, spatial statistics, Markov ch
 interests:
 - Astrostatisics
 - Spatial Statistics
-- Markov Chain Monte Carlo
 - Bayesian Inference and Computation
+- Statistical Pattern Recognition
 
 education:
   courses:
@@ -52,7 +52,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:dli346@uwo.ca".
+  link: '#contact'  # For a direct email link, use "mailto:dayi.li@mail.utoronto.ca".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/davidolohowski
