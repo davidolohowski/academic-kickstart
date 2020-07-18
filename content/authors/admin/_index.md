@@ -28,20 +28,20 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. Student in Statistics
+  - course: Ph.D., Statistics
     institution: University of Toronto
     supervisors: 
       - Gwen Eadie 
       - Patrick Brown
       - Roberto Abraham
     year: 2024 (expected)
-  - course: M.Sc. in Statistics
+  - course: M.Sc., Statistics
     institution: Western University
     supervisors: 
       - Ian McLeod
       - Pauline Barmby
     year: 2020
-  - course: Honors B.Sc. in Financial Modelling
+  - course: Honors B.Sc., Financial Modelling
     institution: Western University
     year: 2018
 
