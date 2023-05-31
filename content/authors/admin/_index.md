@@ -60,7 +60,7 @@ social:
   link: https://scholar.google.ca/citations?hl=en&user=ManGATsAAAAJ
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/davidolohowski
+  link: https://twitter.com/dAvidstrostats
 - icon: github
   icon_pack: fab
   link: https://github.com/davidolohowski
