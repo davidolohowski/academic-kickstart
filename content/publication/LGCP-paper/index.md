@@ -8,7 +8,7 @@ authors:
 - William Harris
 - Steven Janssens
 - Aaron Romanowsky
--Pieter van Dokkum
+- Pieter van Dokkum
 - Shany Danieli
 date: "2022-08-08T00:00:00Z"
 doi: "https://doi.org/10.3847/1538-4357/ac7b22"
