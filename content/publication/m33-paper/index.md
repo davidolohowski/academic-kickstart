@@ -4,7 +4,7 @@ authors:
 - Dayi Li
 - Pauline Barmby
 date: "2020-07-08T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1093/mnras/staa3908"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
