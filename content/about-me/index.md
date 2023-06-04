@@ -18,7 +18,7 @@ My Chinese name is 李大一， 李 (Li, don't think there's any issue with how 
 
 I draw and doodle in my spare time. In fact, I was aiming for a career as an artist all the way till high school. But I dropped it as a career path due to multiple reasons and it ended up as a hobby after high school. It still provides me with a lot of calm and comfort, however, and I enjoy the absolute freedom when I let my imagination loose. 
 
-I am also a die-hard Barcelona fan simply because of the GOAT --- Lionel Messi. The debate on whether he is the GOAT has already settled after the 2022 WC.
+I am also a die-hard of the GOAT --- Lionel Messi. The debate on whether he is the GOAT has already settled after the 2022 WC.
 
 I also quite enjoy classical musics as well as movie scores when I need to focus and study. Debussy and Mozart are probably on the top of my list. Interstellar and Star Wars soundtracks are simply genius.
 
