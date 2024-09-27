@@ -1,10 +1,10 @@
 ---
-title: "Gibbs Point Process Model for Young Star Clusters in M33"
+title: "Bayesian Optimization Sequential Surrogate (BOSS) Algorithm: Fast Bayesian Inference for a Broad Class of Bayesian Hierarchical Models"
 authors:
 - Dayi Li
-- Pauline Barmby
-date: "2021-12-21T00:00:00Z"
-doi: "https://doi.org/10.1093/mnras/staa3908"
+- Ziang Zhang
+date: "2023-02-13T00:00:00Z"
+doi: ""
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -16,5 +16,5 @@ image:
   preview_only: false
 
 publication_types: ["3"]
-publication: MNRAS, 501, 3, 3472-3489, 2021
+publication: Submitted to Bayesian Analysis
 ---

@@ -1,17 +1,19 @@
 ---
-title: "Light from the Darkness: Detecting Ultra-diffuse Galaxies in the Perseus Cluster through Over-densities of Globular Clusters with a Log-Gaussian Cox Process"
+title: "Discovery of Two Ultra-Diffuse Galaxies with Unusually Bright Globular Cluster Luminosity Functions via a Mark-Dependently Thinned Point Process (MATHPOP)"
 authors:
 - Dayi Li
 - Gwendolyn Eadie
-- Roberto Abraham
 - Patrick Brown
 - William Harris
-- Steven Janssens
-- Aaron Romanowsky
+- Roberto Abraham
 - Pieter van Dokkum
+- Steven Janssens
+- Samantha Berek
 - Shany Danieli
-date: "2022-08-08T00:00:00Z"
-doi: "https://doi.org/10.3847/1538-4357/ac7b22"
+- Aaron Romanowsky
+- Joshua Speagle
+date: "2024-09-26T00:00:00Z"
+doi: ""
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -23,5 +25,5 @@ image:
   preview_only: false
 
 publication_types: ["3"]
-publication: ApJ, 935, 1, 3, 2022
+publication: Submitted to the Astrophysical Journal
 ---

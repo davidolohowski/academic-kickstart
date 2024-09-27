@@ -19,8 +19,5 @@ image:
   preview_only: false
 
 publication_types: ["3"]
-publication: Submitted to Annals of Applied Statistics
-
-abstract: We propose a novel set of Poisson Cluster Process models to detect Ultra-Diffuse Galaxies (UDGs), a recently-discovered class of galaxies that are challenging to detect and are of substantial interests in modern astrophysics. We construct an improved spatial birth-death-move MCMC algorithm to make inferences about the locations of these otherwise un-observable galaxies. Our novel models significantly out-perform existing approaches based on the Log-Gaussian Cox Process; the novel marked point process we propose can also improve the detection performance for UDGs in noisy environments. We find evidence of a potential new "dark galaxy" that was not detected using previous methods.
-
+publication: Accepted to Annals of Applied Statistics
 ---

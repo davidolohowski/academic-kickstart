@@ -20,7 +20,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include astrostatisics, spatial statistics, Markov chain Monte Carlo, Bayesian inference/computation.
+bio: My research interests include astrostatisics, spatial statistics, Bayesian methods and computation.
 
 interests:
 - Astrostatisics
@@ -84,8 +84,6 @@ user_groups:
 ---
 
 
-I am a Ph.D. Candidate in statistics advised by <a href="https://www.astro.utoronto.ca/~eadie/intro.html" target="_blank">Gwen Eadie</a>, <a href="http://pbrown.ca/" target="_blank">Patrick Brown</a>,  and <a href="http://www.astro.utoronto.ca/~abraham/Web/Welcome.html" target="_blank">Roberto Abraham</a> at the <a href="https://www.utoronto.ca/" target="_blank">University of Toronto</a>. I am a <a href="https://canssiontario.utoronto.ca/?page_id=1091" target="_blank">CANSSI Ontario Multidisciplinary Doctoral (Mdoc) trainee</a> and my research is supported by the <a href="https://datasciences.utoronto.ca/doctoral-student-fellowship/" target="_blank">Data Sciences Institute Doctoral Fellowship</a>. My research interests lie in the emerging new field of astrostatistics as well as spatial statistics and Bayesian computation. My Ph.D. work focuses on developing novel methodology in spatial statistcs to better understand the mysterious ultra-diffuse galaxies.
+I am a Ph.D. Candidate in statistics at the <a href="https://www.utoronto.ca/" target="_blank">University of Toronto</a>. I am lucky to be advised by <a href="https://www.astro.utoronto.ca/~eadie/intro.html" target="_blank">Gwen Eadie</a>, <a href="http://pbrown.ca/" target="_blank">Patrick Brown</a>,  and <a href="http://www.astro.utoronto.ca/~abraham/Web/Welcome.html" target="_blank">Roberto Abraham</a>. I am a <a href="https://canssiontario.utoronto.ca/?page_id=1091" target="_blank">CANSSI Ontario Multidisciplinary Doctoral (Mdoc) trainee</a> and my research is supported by the <a href="https://datasciences.utoronto.ca/doctoral-student-fellowship/" target="_blank">Data Sciences Institute Doctoral Fellowship</a>. My research primarily focuses on the development of novel statistical methods and computational tools to address important astrophysical problems.
 
 Before coming to UofT, I obtained my bachelor degree in financial modelling in 2018 at <a href="https://www.uwo.ca/" target="_blank">Western University</a>. Subsequently, I obtained my Masters degree in statistics in 2020 at Western University under the supervision of <a href="http://fisher.stats.uwo.ca/faculty/aim/" target="_blank">Ian McLeod</a> and <a href="http://www.physics.uwo.ca/people/faculty_web_pages/barmby.html" target="_blank">Pauline Barmby</a>.
-
-In general, I believe there is still an inadequacy of rigorous applications of advanced statistical methods in astronomy. Filling this inadequacy can bring about new understanding and discovery in astronomy and help us better understand the Universe. Hence, I am interested in novel statistical application in astronomy as well as developing new statistical methods to tackle challenging astronomical questions.
