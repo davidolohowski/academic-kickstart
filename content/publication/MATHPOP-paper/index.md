@@ -24,6 +24,5 @@ image:
   focal_point: ""
   preview_only: false
 
-publication_types: ["3"]
 publication: Submitted to the Astrophysical Journal
 ---

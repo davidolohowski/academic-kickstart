@@ -15,6 +15,5 @@ image:
   focal_point: ""
   preview_only: false
 
-publication_types: ["3"]
 publication: MNRAS, 501, 3, 3472-3489, 2021
 ---

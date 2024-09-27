@@ -22,6 +22,5 @@ image:
   focal_point: ""
   preview_only: false
 
-publication_types: ["3"]
 publication: ApJ, 935, 1, 3, 2022
 ---

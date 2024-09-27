@@ -18,6 +18,5 @@ image:
   focal_point: ""
   preview_only: false
 
-publication_types: ["3"]
 publication: Accepted to Annals of Applied Statistics
 ---
